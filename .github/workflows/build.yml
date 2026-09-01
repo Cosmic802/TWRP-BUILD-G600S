@@ -53,4 +53,3 @@ jobs:
         with:
           name: TWRP_G600S_Recovery
           path: twrp/out/target/product/on7elte/recovery.img
-
